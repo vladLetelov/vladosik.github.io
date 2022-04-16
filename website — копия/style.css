@@ -1,0 +1,141 @@
+ .tema {
+	 text-align: center;
+	 color: #ADFF2F;
+	 font-size: 50px;
+	 	position: relative;
+	top: -37px;
+ }
+ .line {
+     height: 120px;
+	 width: auto;
+	 margin-left: 0;
+     margin-right: 0;
+	     width: 1000px;
+    margin: 0 auto;
+    box-sizing: border-box;
+
+
+	 
+ }
+ h3 {
+	 text-align: left;
+	 color: blue;
+	 width: 800px;
+	 font-size: 27px;
+ }
+ .text1 {
+	width: 1880px;
+	font-size: 22px;
+	text-align: left;
+
+	
+	
+ }
+ .img1 {
+	 margin-left: 100px;
+     margin-right: auto;
+	 /*Для размещения изображения*/
+	 display: block;
+	 padding: 20px;
+ }
+  .text2 {
+	width: 1880px;
+	font-size: 22px;
+	
+  }
+  .img2 { 
+	margin-left: auto;
+     margin-right: 100px;
+	 /*Для размещения изображения*/
+	 display: block;
+	 padding: 20px;
+  }
+  .text3 {
+	width: 1880px;
+	font-size: 22px;
+  }
+    .img3 {
+	 margin-left: 100px;
+     margin-right: auto;
+	 /*Для размещения изображения*/
+	 display: block;
+	 padding: 20px;
+  }
+  body {
+	  background: #A9A9A9;
+  }
+   .text4 {
+	width: 1880px;
+	font-size: 22px;
+  }
+    }
+  .text5 {
+	width: 1880px;
+	font-size: 22px;
+  }
+       .img4 {
+	 margin-left: auto;
+     margin-right: auto;
+	 /*Для размещения изображения*/
+	 display: block; 
+	 padding: 20px;
+  }
+       .img5 {
+	 margin-left: auto;
+     margin-right: auto;
+	 /*Для размещения изображения*/
+	 display: block; 
+	 padding: 20px;
+  }
+    }
+     .img7 {
+	 margin-left: auto;
+     margin-right: auto;
+	 /*Для размещения изображения*/
+	 display: block; 
+	 padding: 20px;
+  }
+     .photo img {
+    border: 0px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 0px; /* Расстояние от картинки до рамки */
+    background: #666; /* Цвет фона */
+    margin-right: 10px; /* Отступ справа */
+    margin-bottom: 10px; /* Отступ снизу */
+	 display: block ;
+	 	 margin-left: auto;
+     margin-right: auto;
+	 } 
+	.info {
+	 height: 120px;
+	 background: #778899; 
+	     width: 1000px;
+    box-sizing: border-box;
+	}	
+	.info1 {
+		text-align: center;
+		color: #2F4F4F;
+			 display: block ;
+	 	 margin-left: auto;
+     margin-right: auto;
+	 margin-bottom: 55px;
+
+	}
+	.knop1 {
+		 display: block ;
+	 	 margin-left: 460px;
+     margin-right: 90px;
+	 display: inline-block;
+	position: relative;
+	top: -35px;
+	
+	}
+	footer {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    color: #fff;
+	background: linear-gradient(
+180deg, rgb(116 40 81) 0%, rgb(17 40 122) 100%);
+	}
+
+
